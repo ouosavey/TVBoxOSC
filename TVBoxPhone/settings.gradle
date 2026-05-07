@@ -1,4 +1,3 @@
 rootProject.name = 'TVBoxPhone'
 
-include ':core'
 include ':phone-android'
