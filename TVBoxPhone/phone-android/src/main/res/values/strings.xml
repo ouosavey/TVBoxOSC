@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TVBox Phone</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_live">直播</string>
+    <string name="nav_search">搜索</string>
+    <string name="nav_user">我的</string>
+</resources>
