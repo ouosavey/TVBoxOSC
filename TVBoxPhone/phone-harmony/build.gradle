@@ -1,5 +1,9 @@
 plugins {
-    id 'com.huawei.library'
+    id 'com.android.library'
+}
+
+android {
+    compileSdkVersion 30
 }
 
 dependencies {
